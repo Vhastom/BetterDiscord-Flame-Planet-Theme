@@ -1,2 +1,1 @@
-# BetterDiscord-Flame-Planet-Theme
-My Own BetterDiscord theme
+You nee BetterDiscord to apply this theme
