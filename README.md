@@ -1,1 +1,1 @@
-You nee BetterDiscord to apply this theme
+You need BetterDiscord to apply this theme
